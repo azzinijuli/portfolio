@@ -1,0 +1,28 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #ffdac1;
+  .hero-title {
+    font-size: 3em;
+    text-align: center;
+  }
+  .hero-container {
+    max-width: 650px;
+    display: flex;
+    justify-content: center;
+    .hero-description {
+      display: flex;
+      align-items: center;
+      .description-container {
+        padding: 1rem;
+        .description-title {
+          font-size: 2em;
+          text-align: center;
+        }
+      }
+    }
+  }
+}
