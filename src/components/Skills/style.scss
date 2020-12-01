@@ -1,0 +1,19 @@
+.skills-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  //background-color: #b5ead7;
+  .skills-title {
+    font-size: 3em;
+    text-align: center;
+  }
+  .skills-wrapper {
+    max-width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-grow: 1;
+  }
+}

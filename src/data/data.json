@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Git",
+    "img": "https://i.postimg.cc/njMLnfhB/1280px-Git-logo-svg.png"
+  },
+  {
+    "title": "GitHub",
+    "img": "https://i.postimg.cc/Pvwr8bZq/github-169-1174970.png"
+  },
+  {
+    "title": "HTML",
+    "img": "https://i.postimg.cc/mPFN2Ktx/HTML.png"
+  },
+  {
+    "title": "CSS",
+    "img": "https://i.postimg.cc/HjBtSQfN/CSS3.png"
+  },
+  {
+    "title": "SASS",
+    "img": "https://i.postimg.cc/C5zRkbw7/Sass.png"
+  },
+  {
+    "title": "JavaScript",
+    "img": "https://i.postimg.cc/2Vs3GkfV/javascript-icon-png-23.png"
+  },
+  {
+    "title": "ReactJS",
+    "img": "https://i.postimg.cc/Mc20ctQn/REACT.png"
+  },
+  {
+    "title": "NextJS",
+    "img": "https://i.postimg.cc/PP7QHdfz/NEXT.png"
+  }
+]
